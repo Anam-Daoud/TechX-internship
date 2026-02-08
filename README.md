@@ -9,6 +9,12 @@ I am a Software Engineering student and interning in the field of Data Science a
 - Next.js
 - Node.js
 - AWS
+- Git & GitHub
+- AWS EC2 and S3
+
+### Goal
+To learn how to deploy full-stack applications on cloud infrastructure.
+
 
 ### How to Run
 1. Clone the repo
